@@ -1,4 +1,4 @@
-/*By using the .length array method, 
+/*By using the .length array method,
 I can return the number of elements (book objects) 
 in the books array.*/
 function getTotalBooksCount(books) {
